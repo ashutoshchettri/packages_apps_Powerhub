@@ -501,4 +501,9 @@
     <!-- Screen off UDFPS -->
     <string name="screen_off_udfps_title">Screen off UDFPS</string>
     <string name="screen_off_udfps_summary">Keep UDFPS enabled when the screen is off</string>
+
+    <!-- Icon Shape -->
+    <string name="theme_customization_category">Theming</string>
+    <string name="theme_customization_icon_shape_title">Icon shape</string>
+    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
 </resources>

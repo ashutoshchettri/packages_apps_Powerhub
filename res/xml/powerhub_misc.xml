@@ -63,4 +63,15 @@
         android:summary="@string/smart_pixels_summary" 
         android:fragment="com.power.hub.fragments.SmartPixels" />
 
+    <PreferenceCategory
+        android:key="theme_customization_category"
+        android:title="@string/theme_customization_category">
+
+    <Preference
+            android:key="android.theme.customization.adaptive_icon_shape"
+            android:title="@string/theme_customization_icon_shape_title"
+            android:summary="@string/theme_customization_icon_shape_summary"
+            android:fragment="com.power.hub.fragments.IconShapes" />
+    </PreferenceCategory>
+
 </PreferenceScreen>
